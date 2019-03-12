@@ -1,1 +1,1 @@
-# cgpa-calc
+# CGPA CALCULATOR☑
