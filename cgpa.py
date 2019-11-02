@@ -1,5 +1,5 @@
 # @author: Akoji Francis Enema
-# @contact: lordfrancismails@gmail.com
+# @contact: akojif@rotechnica.com
 # @license: MIT license(Free Open Source License)
 # @Description: Gpa is Grade Point Average, which is use to determine the student academic pointer 
 #               based on the value of the grade he/she acquired in single semester, where as cgpa is cumlative 
